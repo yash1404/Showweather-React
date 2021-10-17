@@ -1,0 +1,56 @@
+
+.heading{
+    width:80%;
+    margin:10px auto;
+    text-align:center;
+    color:#16865d;
+    font-size:2rem;
+}
+
+.App{
+    width:85%;
+margin:80px auto;
+text-align:center;
+background-color:#24d494;
+box-shadow:1px 1px 5px 1px black;
+padding:20px 0;
+
+
+}
+
+.App .userinput{
+  border:1.5px solid black;
+  border-radius:10px;
+    outline:none;
+    height:30px;
+    width:70%;
+    background:transparent;
+    font-size:1rem;
+    text-transform:capitalize;
+
+}
+.userinput::placeholder{
+    padding-left:5px;
+    font-size:1rem;
+    color:rgb(41, 39, 39);
+}
+.App .searchinput{
+    border:1.5px solid black;
+    border-radius:10px;
+    outline:none;
+    height:31px;
+    width:20%; 
+    margin-left:2%; 
+    padding:2px;
+    cursor:pointer;
+}
+@media only screen and (max-width:500px){
+    .heading{
+       font-size:1.2rem;
+       position:relative;
+       top:30px;
+    }
+    .userinput::placeholder{
+        font-size:0.8rem;
+    }
+}
