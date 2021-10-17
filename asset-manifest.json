@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Showweather-React/static/css/main.ecc7ef01.chunk.css",
+    "main.js": "/Showweather-React/static/js/main.438ee304.chunk.js",
+    "main.js.map": "/Showweather-React/static/js/main.438ee304.chunk.js.map",
+    "runtime-main.js": "/Showweather-React/static/js/runtime-main.cd135eea.js",
+    "runtime-main.js.map": "/Showweather-React/static/js/runtime-main.cd135eea.js.map",
+    "static/js/2.4be5393d.chunk.js": "/Showweather-React/static/js/2.4be5393d.chunk.js",
+    "static/js/2.4be5393d.chunk.js.map": "/Showweather-React/static/js/2.4be5393d.chunk.js.map",
+    "index.html": "/Showweather-React/index.html",
+    "static/css/main.ecc7ef01.chunk.css.map": "/Showweather-React/static/css/main.ecc7ef01.chunk.css.map",
+    "static/js/2.4be5393d.chunk.js.LICENSE.txt": "/Showweather-React/static/js/2.4be5393d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd135eea.js",
+    "static/js/2.4be5393d.chunk.js",
+    "static/css/main.ecc7ef01.chunk.css",
+    "static/js/main.438ee304.chunk.js"
+  ]
+}
